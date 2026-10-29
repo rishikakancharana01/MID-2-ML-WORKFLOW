@@ -1,0 +1,13 @@
+# Core Machine Learning & Data Processing
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Web Application & Deployment
+streamlit
+
